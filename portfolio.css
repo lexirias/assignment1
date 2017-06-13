@@ -1,0 +1,32 @@
+
+header {
+border-top: solid;
+padding: 15px;
+
+}
+
+body {
+    background-color: #e8e8f0;
+
+}
+
+h1 {
+	border-top: black;
+	margin: 20px;
+	font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: Helvetica;
+    padding: 15px;
+}
+
+nav {text-align: center;}
+
+.relaxrpic{
+	padding-top: 20px;
+}
+
+.matchmakerpic{
+	padding-top: 20px;
+	
+}
